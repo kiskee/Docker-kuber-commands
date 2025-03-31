@@ -19,3 +19,6 @@ docker exec -it <container-id>
 
 ####para salir de la consola de un container
 crt+d
+
+#tags
+docker build -t daniel/redis:latest .
